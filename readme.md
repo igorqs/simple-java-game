@@ -15,3 +15,4 @@ Para executar o jogo, digite o seguinte comando:
 
 java Principal
 ```
+![image](https://github.com/igorqs/simple-java-game/assets/33406239/bceb1174-e18c-4021-b5ac-466a8175e87c)
