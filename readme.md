@@ -8,10 +8,11 @@ Para compilar, utilize o seguinte comando no terminal:
 ```bash
 
 javac Principal.java
+```
 
 Para executar o jogo, digite o seguinte comando:
 
 ```bash
 
 java Principal
-
+```
